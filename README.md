@@ -1,6 +1,6 @@
 ## Pabllo Hyan Ferreira de Oliveira - 21 anos
 
-- 🔭 Em busca de uma oportunidade na area **DEV**
+- 🔭 DEV **React Native, Python e JavaScript**
   
 - 🌱 Atualmente estou estudando **TypeScript, JavaScript, Java, Python e React Native**
   
