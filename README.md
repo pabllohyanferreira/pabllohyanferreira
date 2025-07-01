@@ -8,7 +8,7 @@
   
 - 💬 Sobre mim: Sou uma pessoa dedicada, curioso em aprender novas linguagens, com muita vontade de aprender coisas novas e colocar ideias em prática para transformar projetos em realidade
 
-- 💼 A procura de uma vaga de Estagio e/ou remoto
+- 💼 A procura de uma vaga de **Estágio** e/ou **remoto**
   
 - 📫 Como me encontrar:
   - ✉️ **Email:** pablohyan64@gmail.com
