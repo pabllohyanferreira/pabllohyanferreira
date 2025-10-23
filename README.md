@@ -1,15 +1,17 @@
 ## Pabllo Hyan Ferreira de Oliveira - 21 anos
 
-- 🔭 DEV **React Native, Python e JavaScript**
+- 🔭 DEV **TypeScript, Python e JavaScript**
   
 - 🌱 Atualmente estou estudando **TypeScript, JavaScript, Java, Python e React Native**
   
-- 🤔 Estou Desenvolvendo meu próprio **APP para TDAH** em **React Native** usando o **TypeScript**
+- 💼 **Colaborador na empresa Gueiros** - Desenvolvendo soluções inovadoras, Suporte de Softwares pela EMA SOFTWARE
+  
+- 🤔 Desenvolvi um **serviço de sincronização de arquivos** usando **serviços do Windows** e **VPN** para transferências automáticas
+  
+- 💻 Especialista em **aplicações WEB** e faço **freelancer** para desenvolvimento de sites, sistemas de controle de estoque e soluções personalizadas
   
 - 💬 Sobre mim: Sou uma pessoa dedicada, curioso em aprender novas linguagens, com muita vontade de aprender coisas novas e colocar ideias em prática para transformar projetos em realidade
 
-- 💼 A procura de uma vaga de **Estágio** e/ou **remoto**
-  
 - 📫 Como me encontrar:
   - ✉️ **Email:** pablohyan64@gmail.com
   - 💼 **LinkedIn:** https://www.linkedin.com/in/pabllo-hyan-34943a357/
