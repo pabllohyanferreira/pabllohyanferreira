@@ -1,39 +1,96 @@
-## Pabllo Hyan Ferreira de Oliveira - 21 anos
+<!-- Cole este conteúdo como README.md no repositório: seu-usuario/seu-usuario -->
 
-- 🔭 DEV **TypeScript, Python e JavaScript**
-  
-- 🌱 Atualmente estou estudando **TypeScript, JavaScript, Java, Python e React Native**
-  
-- 💼 **Colaborador na empresa Gueiros** - Desenvolvendo soluções inovadoras, Suporte de Softwares pela EMA SOFTWARE
-  
-- 🤔 Desenvolvi um **serviço de sincronização de arquivos** usando **serviços do Windows** e **VPN** para transferências automáticas
-  
-- 💻 Especialista em **aplicações WEB** e faço **freelancer** para desenvolvimento de sites, sistemas de controle de estoque e soluções personalizadas
-  
-- 💬 Sobre mim: Sou uma pessoa dedicada, curioso em aprender novas linguagens, com muita vontade de aprender coisas novas e colocar ideias em prática para transformar projetos em realidade
+<div align="center">
 
-- 📫 Como me encontrar:
-  - ✉️ **Email:** pablohyan64@gmail.com
-  - 💼 **LinkedIn:** https://www.linkedin.com/in/pabllo-hyan-34943a357/
-  - 🗂️ **GitHub:** https://github.com/pabllohyanferreira
- 
-    <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+# Pabllo Hyan
+
+**Engenheiro de software · Full Stack · Mobile · Web**
+
+Automatizo fluxos com APIs na nuvem e desenvolvimento produtos web completos.
+
+📍 Nova Roma, Pernambuco, Brasil
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabllo-hyan-34943a357)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pabllo.zip)
+[![GitHub followers](https://img.shields.io/github/followers/pabllohyanferreira?label=GitHub&style=for-the-badge&logo=github)](https://github.com/pabllohyanferreira)
+
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabllohyanferreira&show_icons=true&theme=dark)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabllohyanferreira&hide_progress=false&theme=dark)
+---
 
-##
+## Sobre mim
 
-<div>
- 	<a href="https://www.twitch.tv/layerzao" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pabllo-hyan-34943a357/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+Construo **aplicações web e mobile** com foco em código organizado e entrega de valor. Tenho experiência ligando **planilhas, armazenamento em nuvem e mensageria** em pipelines confiáveis, além de sistemas **full stack** com frontend em **React** e backend em **Node.js**.
+
+Gosto de integrar ferramentas que já existem no dia a dia (Drive, WhatsApp, gateways de pagamento) em automações e produtos que escalam.
+
+---
+
+## Stack
+
+| Área | Tecnologias |
+|------|-------------|
+| **Frontend** | React, HTML/CSS |
+| **Backend** | Node.js, Python |
+| **Dados & automação** | Python, planilhas (XLSX), pipelines CLI |
+| **Integrações** | Google Drive API, Canva API, Twilio (WhatsApp) |
+| **Nuvem** | AWS (EC2, IAM, S3 quando aplicável) |
+| **Pagamentos** | PIX (integração em produtos) |
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+
+---
+
+## Projetos em destaque
+
+### Automação com integração a AWS
+
+Automação que **gera cards dos assessores em lote** e **envia por WhatsApp**: planilha, fotos e fundo no **Google Drive**, token **Canva**, geração das imagens e envio via **Twilio**.
+
+**Fluxo resumido:** atualizar token Canva → ler `Assessores.xlsx` e fotos no Drive → gerar um card por assessor (fundo + foto circular + nome + cargo + Instagram) em `imagens_lote/` → disparo WhatsApp (template ou texto).
+
+**Stack:** Python 3.8+, Node.js (`node-whatsapp`), Google Cloud (Drive + Service Account), Canva Developer, Twilio WhatsApp, AWS (EC2 / S3 para URLs de mídia quando configurado).
+
+👉 [**Ver repositório**](https://github.com/pabllohyanferreira/FinancialStories) *(ajuste o link se o nome do repo for diferente)*
+
+---
+
+### Lojify
+
+Sistema de **gerenciamento de estoque e vendas** com **pagamentos integrados (PIX)**, cadastro de clientes, relatórios e **catálogo público** para clientes.
+
+**Stack:** React (`client/`), Node.js (`server/`), documentação em `docs/`.
+
+👉 [**Ver repositório**](https://github.com/pabllohyanferreira/Lojify) *(ajuste o link se o nome do repo for diferente)*
+
+---
+
+## Outros repositórios
+
+| Repo | Descrição |
+|------|-----------|
+| [**tdahservice**](https://github.com/pabllohyanferreira/tdahservice) | Projeto TypeScript |
+| [**DEPARA-Gueiros**](https://github.com/pabllohyanferreira/DEPARA-Gueiros) | DEPARA — Python |
+| [**IA-Ecommerce**](https://github.com/pabllohyanferreira/IA-Ecommerce) | Previsão de vendas para e-commerce (Python) |
+| [**torres-coffee**](https://github.com/pabllohyanferreira/torres-coffee) | Site/HTML *(fork)* |
+
+---
+
+## Contato
+
+- **LinkedIn:** [linkedin.com/in/pabllo-hyan-34943a357](https://www.linkedin.com/in/pabllo-hyan-34943a357)
+- **Instagram:** [@pabllo.zip](https://www.instagram.com/pabllo.zip)
+
+---
+
+<div align="center">
+
+*Aberto a colaborações e oportunidades em desenvolvimento full stack, automações e integrações.*
+
 </div>
-
-![Snake Animation](https://github.com/pabllohyanferreira/pabllohyanferreira/blob/output/github-contribution-grid-snake.svg)
